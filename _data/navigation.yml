@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "News"
-    url: /markdown/
+  - title: "Research"
+    url: /research/
     
   - title: "Publications"
     url: /publications/
@@ -12,5 +12,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "日本語"
+  - title: "Japanese"
     url: /jp/
