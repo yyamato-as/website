@@ -13,12 +13,9 @@ I am a Ph.D. student in the Department of Astronomy at the University of Tokyo. 
 
 Contact Information
 ------
-Department of Astronomy, Graduate School of Science, The University of Tokyo
-
-7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan
-
-Email: yyamato.as@gmail.com
-
+Department of Astronomy, Graduate School of Science, The University of Tokyo  
+7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan  
+Email: yyamato.as@gmail.com  
 Supervisor: Prof. Yuri Aikawa
 
 
