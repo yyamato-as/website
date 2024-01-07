@@ -54,7 +54,7 @@ def format_author_name(author_name):
         
 
 def sort_entries(entries, reverse=False):
-    return sorted(entries, key=operator.itemgetter('year', 'volume', "pages"), reverse=reverse)
+    return sorted(entries, key=lambda x: (int(x['year']), int(x['volume']), int(x["pages"])), reverse=reverse)
 
 def generate_reference_list(entries):
     str_list = []
