@@ -26,6 +26,14 @@ Cataldi, G., **Yamato, Y.**, Aikawa, Y., Bergner, J. B., Furuya, K., Guzm&aacute
 
 ## Co-authored Refereed Publications
 
+19\. [Early Planet Formation in Embedded Disks (eDisk). XII. Accretion Streamers, Protoplanetary Disk, and Outflow in the Class I Source Oph IRS 63](https://ui.adsabs.harvard.edu/abs/2023ApJ...958...98F)  
+Flores, C., Ohashi, N., Tobin, J. J., J&oslash;rgensen, J. K., Takakuwa, S., Li, Z.-Y., Lin, Z.-Y. D., van't Hoff, M. L. R., Plunkett, A. L., **Yamato, Y.**, Sai (Insa Choi), J., Koch, P. M., Yen, H.-W., Aikawa, Y., Aso, Y., de Gregorio-Monsalvo, I., Kido, M., Kwon, W., Lee, J.-E., Lee, C. W., Looney, L. W., Santamar&iacute;a-Miranda, A., Sharma, R., Thieme, T. J., Williams, J. P., Han, I., Narayanan, S., Lai, S.-P.  
+2023, The Astrophysical Jornal, 958, 98
+
+18\. [Early Planet Formation in Embedded Disks (eDisk). VIII. A Small Protostellar Disk around the Extremely Low Mass and Young Class 0 Protostar IRAS 15398-3359](https://ui.adsabs.harvard.edu/abs/2023ApJ...958...60T)  
+Thieme, T. J., Lai, S.-P., Ohashi, N., Tobin, J. J., J&oslash;rgensen, J. K., Sai, J., Aso, Y., Williams, J. P., **Yamato, Y.**, Aikawa, Y., de Gregorio-Monsalvo, I., Han, I., Kwon, W., Lee, C. W., Lee, J.-E., Li, Z.-Y., Lin, Z.-Y. D., Looney, L. W., Narayanan, S., Phuong, N. T., Plunkett, A. L., Santamar&iacute;a-Miranda, A., Sharma, R., Takakuwa, S., Yen, H.-W.  
+2023, The Astrophysical Jornal, 958, 60
+
 17\. [Early Planet Formation in Embedded Disks (eDisk). VII. Keplerian Disk, Disk Substructure, and Accretion Streamers in the Class 0 Protostar IRAS 16544-1604 in CB 68](https://ui.adsabs.harvard.edu/abs/2023ApJ...953..190K)  
 Kido, M., Takakuwa, S., Saigo, K., Ohashi, N., Tobin, J. J., J&oslash;rgensen, J. K., Aikawa, Y., Aso, Y., Encalada, F. J., Flores, C., Gavino, S., de Gregorio-Monsalvo, I., Han, I., Hirano, S., Koch, P. M., Kwon, W., Lai, S.-P., Lee, C. W., Lee, J.-E., Li, Z.-Y., Lin, Z.-Y. D., Looney, L. W., Mori, S., Narayanan, S., Plunkett, A. L., Phuong, N. T., (Insa Choi), J. S., Santamar&iacute;a-Miranda, A., Sharma, R., Sheehan, P. D., Thieme, T. J., Tomida, K., van't Hoff, M. L. R., Williams, J. P., **Yamato, Y.**, Yen, H.-W.  
 2023, The Astrophysical Jornal, 953, 190
