@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 
+
+A complete list of my papers can also be found in my [ADS library](https://ui.adsabs.harvard.edu/search/q=docs(library%2FOIxxFvMXRYS3QNRzQ0rLNw)&sort=date%20desc%2C%20bibcode%20desc&p_=0) or [CV](https://yyamato-as.github.io/website/files/CV.pdf).
+
+
 ## Refereed Publications with Significant Contributions
 
 4\. [Early Planet Formation in Embedded Disks (eDisk). IV. The Ringed and Warped Structure of the Disk around the Class I Protostar L1489 IRS](https://ui.adsabs.harvard.edu/abs/2023ApJ...951...11Y)  

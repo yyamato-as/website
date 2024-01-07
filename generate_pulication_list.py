@@ -14,6 +14,10 @@ author_profile: true
 ---
 """
 
+comment = r"""
+A complete list of my papers can also be found in my [ADS library](https://ui.adsabs.harvard.edu/search/q=docs(library%2FOIxxFvMXRYS3QNRzQ0rLNw)&sort=date%20desc%2C%20bibcode%20desc&p_=0) or [CV](https://yyamato-as.github.io/website/files/CV.pdf).
+"""
+
 # dictionary for the jornal abbreviation
 journal_dict = {
     r"\apj" : {"name": "The Astrophysical Jornal", "abbr": "ApJ"},
@@ -99,6 +103,8 @@ if __name__ == "__main__":
     to_write = []
 
     to_write.append(header + "\n\n")
+
+    to_write.append(comment + "\n\n")
 
     # publication with significant contribution
     to_write.append("## Refereed Publications with Significant Contributions\n\n")
