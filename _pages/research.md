@@ -10,4 +10,4 @@ author_profile: true
 
 {: align="center"}
 ![V883Ori](https://yyamato-as.github.io/website/images/V883_Ori_mom0_gallery.png)
-Distribution of the COM Emission in the V883 Ori disk as observed with ALMA (<a href="https://iopscience.iop.org/article/10.3847/1538-3881/ad11d9" style="text-decoration: none">Yamato et al. 2024a</a>)
+<span style="font-size: small;">Distribution of the COM Emission in the V883 Ori disk as observed with ALMA (<a href="https://iopscience.iop.org/article/10.3847/1538-3881/ad11d9" style="text-decoration: none">Yamato et al. 2024a</a>)</span>
