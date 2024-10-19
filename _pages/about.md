@@ -10,7 +10,16 @@ redirect_from:
 
 
 # About Me
-<div style="text-align: justify">I am a Ph.D. student in the Department of Astronomy at the University of Tokyo. My research focuses on understanding the physical and chemical environment of star and planet formation. This exploration helps us uncover the origins of our solar system and, ultimately, our own beginnings. Specifically, I study protoplanetary disks using radio observations of various molecules, including complex organics. I am currently involved in extensive international collaborations, including several ALMA Large Programs, as well as leading smaller collaborations. More infomation about my research can be found <a href="https://yyamato-as.github.io/website/research">here</a>. Please see <a href="https://yyamato-as.github.io/website/publications">here</a> for information about my papers.</div>
+<div style="text-align: justify">I am a Ph.D student of astronomy at the University of Tokyo. My research focuses on understanding the physical and chemical environment of star and planet formation. 
+<!-- This exploration helps us uncover the origins of our solar system and, ultimately, our own beginnings.  -->
+<!-- Specifically, I study protoplanetary disks using radio observations of various molecules, including complex organics.  -->
+I use the observations with radio interferometer such as Atacama Large Millimeter/submillimeter Array (ALMA) and Karl G. Jansky Very Large Array (VLA) to characterize the physical and chemical properties of protoplanetary disks---the brithplace of nascent planets. 
+
+More infomation about my research can be found <a href="https://yyamato-as.github.io/website/research">here</a>. Please see <a href="https://yyamato-as.github.io/website/publications">here</a> for information about my studies.</div>
+
+
+
+<!-- I am currently involved in extensive international collaborations, including several ALMA Large Programs, as well as leading smaller collaborations. More infomation about my research can be found <a href="https://yyamato-as.github.io/website/research">here</a>. Please see <a href="https://yyamato-as.github.io/website/publications">here</a> for information about my papers.</div> -->
 
 Contact Information
 ------
