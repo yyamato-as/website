@@ -12,6 +12,14 @@ A complete list of my papers can also be found in my [ADS library](https://ui.ad
 
 ## Refereed Publications with Significant Contributions
 
+6\. [Detection of Dimethyl Ether in the Central Region of the MWC 480 Protoplanetary Disk](https://ui.adsabs.harvard.edu/abs/2024ApJ...974...83Y)  
+**Yamato, Y.**, Aikawa, Y., Guzm&aacute;n, V. V., Furuya, K., Notsu, S., Cataldi, G., &Ouml;berg, K. I., Qi, C., Law, C. J., Huang, J., Teague, R., Le Gal, R.  
+2024, The Astrophysical Jornal, 974, 83
+
+5\. [Chemistry of Complex Organic Molecules in the V883 Ori Disk Revealed by ALMA Band 3 Observations](https://ui.adsabs.harvard.edu/abs/2024AJ....167...66Y)  
+**Yamato, Y.**, Notsu, S., Aikawa, Y., Okoda, Y., Nomura, H., Sakai, N.  
+2024, The Astronomical Jornal, 167, 66
+
 4\. [Early Planet Formation in Embedded Disks (eDisk). IV. The Ringed and Warped Structure of the Disk around the Class I Protostar L1489 IRS](https://ui.adsabs.harvard.edu/abs/2023ApJ...951...11Y)  
 **Yamato, Y.**, Aikawa, Y., Ohashi, N., Tobin, J. J., J&oslash;rgensen, J. K., Takakuwa, S., Aso, Y., Sai, J., Flores, C., de Gregorio-Monsalvo, I., Hirano, S., Han, I., Kido, M., Koch, P. M., Kwon, W., Lai, S.-P., Lee, C. W., Lee, J.-E., Li, Z.-Y., Lin, Z.-Y. D., Looney, L. W., Mori, S., Narayanan, S., Phuong, N. T., Saigo, K., Santamar&iacute;a-Miranda, A., Sharma, R., Thieme, T. J., Tomida, K., van't Hoff, M. L. R., Yen, H.-W.  
 2023, The Astrophysical Jornal, 951, 11
@@ -29,6 +37,10 @@ Cataldi, G., **Yamato, Y.**, Aikawa, Y., Bergner, J. B., Furuya, K., Guzm&aacute
 2021, The Astrophysical Jornal Supplement Series, 257, 10
 
 ## Co-authored Refereed Publications
+
+20\. [Early Planet Formation in Embedded Disks (eDisk). XIV. Flared Dust Distribution and Viscous Accretion Heating of the Disk around R CrA IRS 7B-a](https://ui.adsabs.harvard.edu/abs/2024ApJ...964...24T)  
+Takakuwa, S., Saigo, K., Kido, M., Ohashi, N., Tobin, J. J., J&oslash;rgensen, J. K., Aikawa, Y., Aso, Y., Gavino, S., Han, I., Koch, P. M., Kwon, W., Lee, C. W., Lee, J.-E., Li, Z.-Y., Lin, Z.-Y. D., Looney, L. W., Mori, S., Sai, J., Sharma, R., Sheehan, P. D., Tomida, K., Williams, J. P., **Yamato, Y.**, Yen, H.-W.  
+2024, The Astrophysical Jornal, 964, 24
 
 19\. [Early Planet Formation in Embedded Disks (eDisk). XII. Accretion Streamers, Protoplanetary Disk, and Outflow in the Class I Source Oph IRS 63](https://ui.adsabs.harvard.edu/abs/2023ApJ...958...98F)  
 Flores, C., Ohashi, N., Tobin, J. J., J&oslash;rgensen, J. K., Takakuwa, S., Li, Z.-Y., Lin, Z.-Y. D., van't Hoff, M. L. R., Plunkett, A. L., **Yamato, Y.**, Sai (Insa Choi), J., Koch, P. M., Yen, H.-W., Aikawa, Y., Aso, Y., de Gregorio-Monsalvo, I., Kido, M., Kwon, W., Lee, J.-E., Lee, C. W., Looney, L. W., Santamar&iacute;a-Miranda, A., Sharma, R., Thieme, T. J., Williams, J. P., Han, I., Narayanan, S., Lai, S.-P.  
