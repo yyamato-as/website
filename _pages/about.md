@@ -23,8 +23,10 @@ More infomation about my research can be found <a href="https://yyamato-as.githu
 
 Contact Information
 ------
-Star and Planet Formation Laboratory, RIKEN Pioneering Research Institute 
-N405 Chemistry and Materials Physics Building, 2-1 Hirosawa, Wako, Saitama 351-0198, Japan 
+Star and Planet Formation Laboratory, RIKEN Pioneering Research Institute
+
+N405 Chemistry and Materials Physics Building, 2-1 Hirosawa, Wako, Saitama 351-0198, Japan
+
 Email: <a href="mailto:yyamato.as@gmail.com">yyamato.as@gmail.com</a>  
 
 
