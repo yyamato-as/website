@@ -19,4 +19,6 @@ Education
 
 Professional Appointments
 ======
-Special Postdoctoral Researcher (SPDR Fellow), Apr. 2025--
+* Special Postdoctoral Researcher (SPDR Fellow), Apr. 2025 -
+* Japan Society for the Promotion of Science (JSPS) Research Fellow, Apr. 2023 - Mar. 2025
+* Research Assistant of the WINGS Program in the University of Tokyo, Oct. 2020 - Mar. 2023
