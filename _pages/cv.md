@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-The full CV can be found here.
+The full CV can be found [here](https://yyamato-as.github.io/website/files/CV.pdf).
 
 Education
 ======
